@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "340373497160",
+    "firebase_url": "https://test-app-fa921-default-rtdb.firebaseio.com",
+    "project_id": "test-app-fa921",
+    "storage_bucket": "test-app-fa921.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340373497160:android:3039e3902c275750ccff7d",
+        "android_client_info": {
+          "package_name": "com.example.quizquestadminapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHW1zR7nA8Z_bi5CLsM6MumLkTWfcrrRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
